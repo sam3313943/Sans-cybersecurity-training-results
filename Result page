@@ -4,5 +4,5 @@ results.db  (optional if small, else use online DB)
 templates/
      index.html
      result.html
-initial upload of SAMS Results Website
+initial upload of SANS Results Website
 
